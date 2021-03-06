@@ -25,23 +25,14 @@ namespace XsiZero
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
         private void btnStartGame_click(object sender, RoutedEventArgs e)
         {
-            string name = txtName.Text;
-            if (string.IsNullOrEmpty(name))
-            {
-                return;
-            }
-
-            User u = new User(name);
-            lblMessage.Content = u.salut();
-            lblMessage.Content = u.salut();
+            lblMessage.Content = Utils.StartJoc(txtName.Text);
         }
 
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

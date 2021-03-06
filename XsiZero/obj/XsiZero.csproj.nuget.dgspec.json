@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Facultate\\An2\\MVP\\Projects\\XsiZero\\XsiZero.csproj": {}
+    "X:\\Facultate\\An2\\MVP\\MVP-Projects\\XsiZero\\XsiZero.csproj": {}
   },
   "projects": {
-    "X:\\Facultate\\An2\\MVP\\Projects\\XsiZero\\XsiZero.csproj": {
+    "X:\\Facultate\\An2\\MVP\\MVP-Projects\\XsiZero\\XsiZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Facultate\\An2\\MVP\\Projects\\XsiZero\\XsiZero.csproj",
+        "projectUniqueName": "X:\\Facultate\\An2\\MVP\\MVP-Projects\\XsiZero\\XsiZero.csproj",
         "projectName": "XsiZero",
-        "projectPath": "X:\\Facultate\\An2\\MVP\\Projects\\XsiZero\\XsiZero.csproj",
+        "projectPath": "X:\\Facultate\\An2\\MVP\\MVP-Projects\\XsiZero\\XsiZero.csproj",
         "packagesPath": "C:\\Users\\Razvan\\.nuget\\packages\\",
-        "outputPath": "X:\\Facultate\\An2\\MVP\\Projects\\XsiZero\\obj\\",
+        "outputPath": "X:\\Facultate\\An2\\MVP\\MVP-Projects\\XsiZero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Razvan\\AppData\\Roaming\\NuGet\\NuGet.Config",

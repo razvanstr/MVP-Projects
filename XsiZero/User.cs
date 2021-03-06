@@ -4,7 +4,7 @@ using System.Text;
 
 namespace XsiZero
 {
-    public class User
+public class User
     {
         private string name;
 
@@ -13,27 +13,19 @@ namespace XsiZero
             return this.name;
         }
 
-        public void string setName(string name)
+        public void setName(string name)
         {
             this.name = name;
         }
 
         public User()
         {
-            this.name = name;
+            
         }
 
         public User(string name)
         {
             this.name = name;
-        }
-
-        public string salut()
-        {
-            StringBuilder sb = new StringBuilder("Hello, ");
-            sb.Append(this.name);
-            sb.Append('!');
-            return sb.ToString();
-        }
+        }       
     }
 }
