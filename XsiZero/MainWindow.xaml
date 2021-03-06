@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:XsiZero"
         mc:Ignorable="d"
-        Title="X si Zero" Height="450" Width="800">
+        Title="X si Zero" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
     <Grid>
-        <Button x:Name="btnStartGame" Content="Start Game" HorizontalAlignment="Left" Margin="308,147,0,0" VerticalAlignment="Top" Click="btnStartGame_click" RenderTransformOrigin="0.1,0.403" Height="20" Width="64"/>
-        <Label x:Name="lblName" Content="Nume: " HorizontalAlignment="Left" Margin="231,103,0,0" VerticalAlignment="Top" Width="44" RenderTransformOrigin="-0.135,0.117" Height="26"/>
-        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="280,107,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Height="18"/>
-        <Label x:Name="lblMessage" Content="" HorizontalAlignment="Left" Margin="253,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.632,0.425" Width="212" Height="26"/>
+        <Button x:Name="btnStartGame" Content="Start Game" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnStartGame_click" RenderTransformOrigin="0.1,0.403" Height="20" Width="64" Margin="0,136,0,0"/>
+        <Label x:Name="lblName" Content="Nume: " HorizontalAlignment="Left" Margin="278,98,0,0" VerticalAlignment="Top" Width="44" RenderTransformOrigin="-0.135,0.117" Height="26"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Center" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Height="18" Margin="0,103,0,0"/>
+        <Label x:Name="lblMessage" Content="" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.632,0.425" Margin="0,191,0,0"/>
 
     </Grid>
 </Window>

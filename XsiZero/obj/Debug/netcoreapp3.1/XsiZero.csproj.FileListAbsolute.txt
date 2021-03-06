@@ -17,7 +17,6 @@ C:\Users\Razvan\source\repos\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.csproj.Core
 C:\Users\Razvan\source\repos\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.dll
 C:\Users\Razvan\source\repos\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.pdb
 C:\Users\Razvan\source\repos\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.genruntimeconfig.cache
-X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.csprojAssemblyReference.cache
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\App.g.cs
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero_MarkupCompile.cache
@@ -36,3 +35,4 @@ X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.Assemb
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.AssemblyInfo.cs
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.csproj.CoreCompileInputs.cache
 X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.genruntimeconfig.cache
+X:\Facultate\An2\MVP\MVP-Projects\XsiZero\obj\Debug\netcoreapp3.1\XsiZero.csprojAssemblyReference.cache
